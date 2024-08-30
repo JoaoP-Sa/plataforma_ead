@@ -1,5 +1,4 @@
 <?php
-
 $erro = false;
 if (isset($_POST['email']) || isset($_POST['senha'])) {
 
