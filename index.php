@@ -1,4 +1,4 @@
-<?php        // paramos nos 02:32:50 de vídeo
+<?php       
     include('lib/conexao.php');
     include('lib/protect.php');
     protect(0);
